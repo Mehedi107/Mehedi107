@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is Mehedi Hasan and I'm a Web Developer, from Bangladesh.</h1>
+<h2 align="left">Hi 👋! My name is Mehedi Hasan and I'm a Web Developer, from Bangladesh.</h2>
 
 ###
 
